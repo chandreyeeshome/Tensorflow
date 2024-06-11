@@ -40,6 +40,8 @@ Tensorflow
 └── README.md                     # Readme file
 ```
 
+## Data
+
 Drive Link for the dataset and model : <a href="https://drive.google.com/drive/folders/19_-EqnJwHDi_1hw_kjBZopb1ne1Wex4X?usp=sharing">Dataset_&_Model</a>
 
 Descriptions of the files in drive:
@@ -51,9 +53,7 @@ Dataset_&_Model
 └── mymodel1.h5          # Trained model in HDF5 format
 ```
 
-## Data
-
-The dataset used in this project is the well-known Cats vs. Dogs dataset, sourced from Kaggle. It contains 25,000 images of cats and dogs, split into training and testing datasets.
+The dataset contains 25,000 images of cats and dogs, split into training and testing datasets.
 
 ### Data Preprocessing
 
@@ -114,7 +114,7 @@ To set up the project, follow these steps:
    cd Tensorflow
    ```
 
-2. **Install the dependencies:**
+2. **Install the dependencies**
 
 3. **Prepare the data:**
    
